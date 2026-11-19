@@ -1,3 +1,5 @@
+import facadePhoto from '../assets/aistudio/fachada_conduta.jpg';
+
 export type TravelModeOption = 'DRIVING' | 'TWO_WHEELER' | 'WALKING';
 
 export interface LatLngPoint {
@@ -27,7 +29,7 @@ export const STORE_INFO = {
   cityLabel: 'Piripiri · PI',
   position: {lat: -4.3018578, lng: -41.7741535} as LatLngPoint,
   mapsShareUrl: 'https://maps.app.goo.gl/T7ihomcoQcfvyb9L8',
-  photoUrl: '/assets/aistudio/fachada_conduta.jpg',
+  photoUrl: facadePhoto,
   whatsappNumber: '5586988778884',
   whatsappDisplay: '55 86 98877-8884',
   specialties: [
