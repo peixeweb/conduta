@@ -1,0 +1,6 @@
+{
+  "name": "Conduta Autopeças — Localização e Rotas",
+  "description": "Localização interativa, rota no Google Maps e atendimento via WhatsApp da Conduta Locações, Autopeças e Manutenções (2948C) em Piripiri - PI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
