@@ -27,7 +27,7 @@ export const STORE_INFO = {
   cityLabel: 'Piripiri · PI',
   position: {lat: -4.3018578, lng: -41.7741535} as LatLngPoint,
   mapsShareUrl: 'https://maps.app.goo.gl/T7ihomcoQcfvyb9L8',
-  photoUrl: '/assets/aistudio/Fachada_Azul_da_Conduta_Autope_as_8efd1062.png',
+  photoUrl: '/assets/aistudio/fachada_conduta.jpg',
   whatsappNumber: '5586988778884',
   whatsappDisplay: '55 86 98877-8884',
   specialties: [

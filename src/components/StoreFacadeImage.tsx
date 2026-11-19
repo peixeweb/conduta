@@ -9,7 +9,7 @@ interface StoreFacadeImageProps {
 
 export function StoreFacadeImage({
   className = 'w-full h-full object-cover',
-  alt = 'Fachada azul da Conduta Locações, Autopeças e Manutenções — Número 2948C',
+  alt = 'Fachada da Conduta — Locações, Autopeças e Manutenções, Linha Diesel — Número 2948C',
 }: StoreFacadeImageProps) {
   const [hasError, setHasError] = useState(false);
 
